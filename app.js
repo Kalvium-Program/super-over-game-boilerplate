@@ -22,8 +22,8 @@ const possibleOutcomes = [0, 1, 2, 3, 4, 6, "W"];
 // Iteration 4: Write an update score function
 
 // Reset button function
-resetButton.onclick = () => {
-  window.location.reload();
-};
+// resetButton.onclick = () => {
+//   window.location.reload();
+// };
 
 // Iteration 5: Write a function for Strike button
